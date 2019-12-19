@@ -43,7 +43,7 @@
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <android.version>4.2</android.version>
-    <gwt.version>2.5.0</gwt.version>
+    <gwt.version>2.8.2</gwt.version>
     <lwjgl.version>2.9.0</lwjgl.version>
     <monotouch.version>5.1</monotouch.version>
   </properties>
