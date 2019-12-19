@@ -34,7 +34,7 @@
       <dependency>
           <groupId>org.robovm</groupId>
           <artifactId>robovm-rt</artifactId>
-          <version>0.0.5</version>
+          <version>1.14.0</version>
       </dependency>
   </dependencies>
 
